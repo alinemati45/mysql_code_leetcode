@@ -1,8 +1,12 @@
-# mysql_code_leetcode 
-175 Combine Two Tables     [I'm an inline-style link](https://www.google.com)
+# `mysql_code_leetcode` 
+175 [Combine Two Tables](https://github.com/alinemati45/mysql_code_leetcode/blob/master/175.%20Combine%20Two%20Tables.ipynb)
+
 176
+
 181
+
 182
+
 196
 197
 511
