@@ -32,6 +32,8 @@
 
 607 [Sales Person](https://github.com/alinemati45/mysql_code_leetcode/blob/master/607.%20Sales%20Person.ipynb)
 
+610 [Biggest Single Number](https://github.com/alinemati45/mysql_code_leetcode/blob/master/619.%20Biggest%20Single%20Number.ipynb)
+
 613 [Second Highest shipping fee](https://github.com/alinemati45/mysql_code_leetcode/blob/master/607.%20Sales%20Person.ipynb)
 
 619 [Biggest Single Number](https://github.com/alinemati45/mysql_code_leetcode/blob/master/619.%20Biggest%20Single%20Number.ipynb)
