@@ -1,4 +1,7 @@
 # `Mysql Code Leetcode` 
+
+## Easy Questions
+
 175 [Combine Two Tables](https://github.com/alinemati45/mysql_code_leetcode/blob/master/175.%20Combine%20Two%20Tables.ipynb)
 
 176 [Second Highest Salary](https://github.com/alinemati45/mysql_code_leetcode/blob/master/176.%20%20Second%20Highest%20Salary%20.ipynb)
@@ -52,3 +55,6 @@
 
 1517 [Find Users With Valid E-Mails](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1517.%20Find%20Users%20With%20Valid%20E-Mails.ipynb)
 
+## Medium Questions
+
+## Hard Questions
