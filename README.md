@@ -1,6 +1,6 @@
 # `Mysql Code Leetcode` 
 
-## Easy Questions
+## Easy Questions [Source](https://leetcode.com/problemset/database/?difficulty=Easy)
 
 175 [Combine Two Tables](https://github.com/alinemati45/mysql_code_leetcode/blob/master/175.%20Combine%20Two%20Tables.ipynb)
 
