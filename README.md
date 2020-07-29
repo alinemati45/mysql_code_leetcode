@@ -44,6 +44,8 @@
 
 1050 [Actors and Directors Who Cooperated At Least Three Times](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1050%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.ipynb)
 
+1068 [Product Sales Analysis I](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1068%20Product%20Sales%20Analysis%20I.ipynb)
+
 1327 [List the Products Ordered in a Period](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1327.%20%20List%20the%20Products%20Ordered%20in%20a%20Period%20.ipynb)
 
 1350 [Students With Invalid Departments](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1350.%20Students%20With%20Invalid%20Departments.ipynb)
