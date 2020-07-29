@@ -10,6 +10,8 @@
 
 182 [Duplicate Emails](https://github.com/alinemati45/mysql_code_leetcode/blob/master/182.%20Duplicate%20Emails.ipynb)
 
+183 [Customers Who Never Order](https://github.com/alinemati45/mysql_code_leetcode/blob/master/183.%20Customers%20Who%20Never%20Order.ipynb)
+
 196 [Delete Duplicate Emails](https://github.com/alinemati45/mysql_code_leetcode/blob/master/196.%20Delete%20Duplicate%20Emails.ipynb)
 
 197 [Rising Temperature](https://github.com/alinemati45/mysql_code_leetcode/blob/master/197.%20Rising%20Temperature.ipynb)
