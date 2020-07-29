@@ -46,6 +46,8 @@
 
 1068 [Product Sales Analysis I](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1068%20Product%20Sales%20Analysis%20I.ipynb)
 
+1069 [Product Sales Analysis II](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1069.%20Product%20Sales%20Analysis%20II.ipynb)
+
 1327 [List the Products Ordered in a Period](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1327.%20%20List%20the%20Products%20Ordered%20in%20a%20Period%20.ipynb)
 
 1350 [Students With Invalid Departments](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1350.%20Students%20With%20Invalid%20Departments.ipynb)
