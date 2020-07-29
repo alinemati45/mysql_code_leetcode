@@ -37,12 +37,18 @@
 
 1327 [List the Products Ordered in a Period](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1327.%20%20List%20the%20Products%20Ordered%20in%20a%20Period%20.ipynb)
 
-1350 []()
+1350 [Students With Invalid Departments](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1350.%20Students%20With%20Invalid%20Departments.ipynb)
 
-1378
+1378 [Replace Employee ID With The Unique Identifier](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.ipynb)
 
-1407
-1419
-1435
-1484
-1517
+1407 [Top Travellers](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1407.%20Top%20Travellers.ipynb)
+
+
+1435 [Create a Session Bar Chart](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1435.%20Create%20a%20Session%20Bar%20Chart.ipynb)
+
+1484 [Group Sold Products By The Date](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1435.%20Create%20a%20Session%20Bar%20Chart.ipynb) 
+
+1495 [Friendly Movies Streamed Last Month](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1495.%20Friendly%20Movies%20Streamed%20Last%20Month%20.ipynb)
+
+1517 [Find Users With Valid E-Mails](https://github.com/alinemati45/mysql_code_leetcode/blob/master/1517.%20Find%20Users%20With%20Valid%20E-Mails.ipynb)
+
