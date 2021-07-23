@@ -68,3 +68,6 @@
 ## Medium Questions
 
 ## Hard Questions
+
+## Ebook Summay
+1 [Sams Teach Yourself SQL in 10 Minutes Fifth Edition Ben Forta](https://github.com/alinemati45/mysql_code_leetcode/blob/master/Sams%20Teach%20Yourself%20SQL%20in%2010%20Minutes%20Fifth%20Edition%20Ben%20Forta.ipynb)
