@@ -70,4 +70,8 @@
 ## Hard Questions
 
 ## Ebook Summay
-1 [Sams Teach Yourself SQL in 10 Minutes Fifth Edition Ben Forta](https://github.com/alinemati45/mysql_code_leetcode/blob/master/Sams%20Teach%20Yourself%20SQL%20in%2010%20Minutes%20Fifth%20Edition%20Ben%20Forta.ipynb)
+1.  [Sams Teach Yourself SQL in 10 Minutes Fifth Edition Ben Forta](https://github.com/alinemati45/mysql_code_leetcode/blob/master/Sams%20Teach%20Yourself%20SQL%20in%2010%20Minutes%20Fifth%20Edition%20Ben%20Forta.ipynb)
+
+2. SQL Cookbook: Query Solutions and Techniques for All SQL Users 2nd Edition, Kindle Edition
+by Anthony Molinaro (Author), Robert de Graaf  (Author) 
+(https://github.com/alinemati45/mysql_code_leetcode/blob/master/SQL%20Cookbook%20for%20MySQL-Legion.ipynb)
