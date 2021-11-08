@@ -2,9 +2,9 @@
 
 ## Easy Questions [Source Questions](https://leetcode.com/problemset/database/?difficulty=Easy)
 
-175 [Combine Two Tables](https://github.com/alinemati45/mysql_code_leetcode/blob/master/175.%20Combine%20Two%20Tables.ipynb)
-176 [Second Highest Salary](https://github.com/alinemati45/mysql_code_leetcode/blob/master/176.%20%20Second%20Highest%20Salary%20.ipynb)
-181 [Employees Earning More Than Their Managers](https://github.com/alinemati45/mysql_code_leetcode/blob/master/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.ipynb)
++ 175 [Combine Two Tables](https://github.com/alinemati45/mysql_code_leetcode/blob/master/175.%20Combine%20Two%20Tables.ipynb)
++ 176 [Second Highest Salary](https://github.com/alinemati45/mysql_code_leetcode/blob/master/176.%20%20Second%20Highest%20Salary%20.ipynb)
++ 181 [Employees Earning More Than Their Managers](https://github.com/alinemati45/mysql_code_leetcode/blob/master/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.ipynb)
 182 [Duplicate Emails](https://github.com/alinemati45/mysql_code_leetcode/blob/master/182.%20Duplicate%20Emails.ipynb)
 183 [Customers Who Never Order](https://github.com/alinemati45/mysql_code_leetcode/blob/master/183.%20Customers%20Who%20Never%20Order.ipynb)
 196 [Delete Duplicate Emails](https://github.com/alinemati45/mysql_code_leetcode/blob/master/196.%20Delete%20Duplicate%20Emails.ipynb)
